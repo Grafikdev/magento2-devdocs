@@ -202,7 +202,7 @@ For more information, see the Magento 2 [Backend settings guide](https://github.
 Fastly provides multiple types of purge options on your Magento Cache Management
 page including purging product category, product assets, and content. When enabled,
 Fastly watches for events to automatically purge those caches. If you disable a
-purge option, you can manually purge Fastly aches after finishing updates
+purge option, you can manually purge Fastly caches after finishing updates
 through the Cache Management page.
 
 The options include:
